@@ -95,7 +95,6 @@ bank-account-search-api/
 │   ├── models.py
 │   ├── views.py
 │   ├── urls.py
-│   ├── forms.py
 │   └── tests.py
 │
 ├── data.csv
